@@ -1,0 +1,75 @@
+#separator:semicolon
+#html:true
+#notetype column:1
+
+Basic;What is the primary focus of Lecture 5 in Dispensing II?;The primary focus of Lecture 5 in Dispensing II is <b>frame size measurement</b> and understanding how to accurately measure and interpret frame dimensions for proper lens fitting.
+
+Basic;Who is responsible for selecting and adapting the frame for a patient after receiving their prescription?;The <b>dispensing optician</b> is responsible for selecting the frame and adapting it for the patient to wear after receiving their prescription from an optometrist or ophthalmologist.
+
+Basic;What factors influence the style and size of the frame chosen by an individual?;Both the <b>style and size of the frame</b> depend on the individual's <b>personal preferences</b>, including choices related to frame color and shape.
+
+Basic;Where can one typically find the dimensions of an existing pair of spectacles?;The dimensions of an existing pair of spectacles are usually printed on the <b>inside of one of the arms (temples)</b> of the frame.
+
+Basic;What are the three distinct sets of numbers typically found on the inside of a frame's arm?;The three distinct sets of numbers are:<br><ol><li><b>A-Measurement (Eye Size)</b>: The longest horizontal dimension of the lens.</li><li><b>Bridge Distance (DBL)</b>: The distance between the two lenses.</li><li><b>Side Length (Temple Length)</b>: The length of the temple from the hinge to the tip.</li></ol>
+
+Basic;What is the <b>boxing system</b>, and when was it adopted?;The <b>boxing system</b> is a standardized method for frame and lens measurements that involves drawing an imaginary box around the lens shape. It was adopted in <b>1962</b> to improve the accuracy of previous measurement systems.
+
+Basic;How does the boxing system improve frame and lens measurements?;The boxing system improves measurements by using the sides of an imaginary rectangular box drawn around the lens shape as <b>reference points</b>, providing a standardized and accurate method for measuring frames and lenses.
+
+Basic;Define the <b>A-Measurement</b> in the context of the boxing system.;The <b>A-Measurement</b> is the <b>horizontal distance</b> between the furthest temporal (outer) and nasal (inner) edges of the lens shape, also known as the <b>eye size</b>.
+
+Basic;What does the <b>B-Measurement</b> represent, and is it typically printed on the frame?;The <b>B-Measurement</b> represents the <b>vertical distance</b> between the top and bottom edges of the lens shape. It <b>is not usually printed</b> on the frame.
+
+Basic;Explain what <b>Distance Between Lenses (DBL)</b> refers to and its alternative name.;<b>Distance Between Lenses (DBL)</b> refers to the <b>shortest distance between the nasal edges</b> of each lens or the distance between the boxes if drawn for both lenses. It is also commonly known as the <b>bridge size</b>.
+
+Basic;What is the <b>Datum Line</b>, and what was its significance in frame measurements?;The <b>Datum Line</b> is a <b>horizontal line</b> that runs through the vertical center of the frame, connecting the geometrical centers of the lenses. It was part of the older <b>datum system</b>, which is less precise than the boxing system.
+
+Basic;How is the <b>Geometrical Center (GC)</b> of a lens determined in the boxing system?;The <b>Geometrical Center (GC)</b> is determined by the <b>intersection of the diagonals</b> of the imaginary box drawn around the lens shape in the boxing system.
+
+Basic;What does <b>Distance Between Centers (DBC)</b> measure, and what are its other known terms?;<b>Distance Between Centers (DBC)</b> measures the <b>horizontal distance</b> between the geometrical centers of the lenses. It is also known as the <b>Geometric Center Distance (GCD)</b> and was previously referred to as the <b>frame PD (Pupillary Distance)</b>.
+
+Basic;How can the <b>Distance Between Centers (DBC)</b> be theoretically calculated from frame markings?;The <b>DBC</b> can be theoretically calculated by <b>adding the A-Measurement</b> (lens width) <b>to the DBL</b> (bridge size) as marked on the frame.
+
+Basic;Define <b>Effective Diameter (ED)</b> and explain its importance in lens fitting.;The <b>Effective Diameter (ED)</b> is <b>twice the distance</b> from the geometrical center of the lens to its furthest edge. It is important in lens fitting as it helps determine the <b>minimum lens blank size</b> required to fit a given frame, ensuring cost-effectiveness and proper fit.
+
+Basic;How is the <b>Effective Diameter (ED)</b> calculated, and what role does decentration play in this calculation?;The <b>ED</b> is calculated by measuring the distance from the geometrical center to the furthest edge of the lens and then multiplying that distance by two. If <b>decentration</b> is required to correct vision issues, the decentration distance must be <b>added</b> to the ED to determine the required lens blank diameter.
+
+Basic;What is the standard format for frame markings, and what does each number represent?;The standard format for frame markings is <b>two numbers separated by a box symbol (□)</b>, for example, <b>"52 □ 20"</b>. The <b>first number (52)</b> represents the <b>A-Measurement (eye size)</b>, and the <b>second number (20)</b> represents the <b>DBL (bridge size)</b>.
+
+Basic;How can one quickly determine the <b>Distance Between Centers (DBC)</b> using frame markings?;By <b>adding the two numbers</b> in the frame markings (A-Measurement + DBL), one can quickly determine the <b>Distance Between Centers (DBC)</b>. For example, <b>52 + 20 = 72mm</b>.
+
+Basic;What practical considerations should be taken into account when interpreting the <b>Distance Between Centers (DBC)</b>?;The <b>theoretical DBC</b> may <b>differ slightly</b> from the actual measurement due to <b>manufacturing tolerances</b>. Knowing the DBC helps in aligning the optical centers of the lenses with the wearer's pupillary distance for optimal vision correction.
+
+Basic;Why is understanding frame size measurements essential for dispensing opticians?;Understanding frame size measurements is essential for dispensing opticians to ensure <b>proper lens fitting</b>, enhance <b>accuracy</b>, and achieve <b>customer satisfaction</b> by selecting frames and lenses that are tailored to individual needs.
+
+Basic;What system does the box symbol (□) in frame markings indicate, and what alternative symbol might be used?;The <b>box symbol (□)</b> in frame markings indicates that the measurements follow the <b>boxing system</b>. An alternative symbol, a <b>dash (-)</b>, indicates that the measurements use the older <b>datum system</b>.
+
+Basic;What will be covered in the next lecture following Lecture 5 on Frame Size Measurement?;In the next lecture, <b>general guidelines for frame selection</b> will be discussed, providing opticians with advice on choosing appropriate frames based on various factors.
+
+Basic;How does the <b>boxing system</b> contribute to the standardization of frame and lens measurements globally?;The <b>boxing system</b> contributes to global standardization by providing a <b>consistent and accurate method</b> for measuring frames and lenses, allowing for uniformity in production and fitting across different regions and manufacturers.
+
+Basic;What is the relationship between the <b>Geometrical Center (GC)</b> and the <b>optical center</b> of a lens in the context of the boxing system?;The <b>Geometrical Center (GC)</b> is the center point determined by the intersection of the diagonals of the imaginary box in the boxing system, whereas the <b>optical center</b> is the point within the lens that aligns with the wearer's line of sight. They are <b>not the same</b>, and aligning them correctly is crucial for effective vision correction.
+
+Basic;In the example provided, if a frame has an <b>A-Measurement</b> of 52mm and a <b>DBL</b> of 20mm, what is the <b>DBC</b>?;The <b>DBC</b> would be <b>52mm (A-Measurement) + 20mm (DBL) = 72mm</b>.
+
+Basic;What happens to the required lens blank diameter when <b>decentration</b> is introduced, and why?;When <b>decentration</b> is introduced, the required lens blank diameter <b>increases</b> by the decentration distance to accommodate the shift. For example, with a <b>4mm decentration</b>, the required lens blank diameter increases from <b>60mm to 64mm</b> (60mm + 4mm) to ensure the lens fits properly within the frame while correcting the desired vision issue.
+
+Basic;How does the <b>Effective Diameter (ED)</b> aid in cost-effective lens production?;The <b>ED</b> helps determine the <b>minimum lens blank size</b> needed, ensuring that lenses are not larger than necessary (which would increase costs) or too small to fit the frame, thereby optimizing material usage and cost-effectiveness in lens production.
+
+Basic;What is the significance of the <b>Geometrical Center Distance (GCD)</b> in frame measurements?;<b>Geometrical Center Distance (GCD)</b>, also known as <b>DBC</b>, is significant because it helps in <b>aligning the optical centers</b> of the lenses with the wearer's <b>pupillary distance</b>, ensuring proper visual clarity and comfort.
+
+Basic;Why might the <b>theoretical DBC</b> differ from the <b>actual measurement</b> on a frame?;The <b>theoretical DBC</b> might differ from the <b>actual measurement</b> due to <b>manufacturing variations</b> and tolerances, which can cause slight discrepancies between calculated and real-world measurements.
+
+Basic;What role does the <b>Datum Line</b> play in the older datum system of frame measurements?;In the older <b>datum system</b>, the <b>Datum Line</b> served as a reference for vertical alignment by connecting the geometrical centers of the lenses. However, it is <b>less precise</b> compared to the boxing system and has been largely replaced by more accurate measurement methods.
+
+Basic;How does the <b>boxing system</b> utilize imaginary boxes in frame measurements?;The <b>boxing system</b> utilizes imaginary rectangular boxes drawn around each lens shape by extending tangent lines to the four furthest points of the lens. The sides of these boxes serve as <b>reference points</b> for taking standardized measurements like the A-Measurement and DBL.
+
+Basic;What is the alternative name previously used for the <b>Distance Between Centers (DBC)</b>, and why is it considered a misnomer?;The <b>Distance Between Centers (DBC)</b> was previously referred to as the <b>frame PD (Pupillary Distance)</b>. It is considered a misnomer because the frame itself does not possess a true pupillary distance; the term was used metaphorically to describe the distance between the geometrical centers of the lenses.
+
+Basic;In the context of lens fitting, what is <b>decentration</b>, and when might it be required?;<b>Decentration</b> is the adjustment of the lens position relative to the frame to correct vision issues such as <b>heterophoria, convergence</b>, or <b>accommodation</b> problems. It ensures that the optical centers of the lenses align properly with the wearer's eyes, enhancing visual comfort and effectiveness.
+
+Basic;What does the <b>side length (temple length)</b> measurement indicate in frame dimensions?;The <b>side length (temple length)</b> measurement indicates the <b>length of the temple (arm)</b> of the glasses from the hinge (temple) to the tip, ensuring that the frames fit comfortably over the ears.
+
+Basic;Why is the <b>B-Measurement</b> important even though it is not typically printed on the frame?;The <b>B-Measurement</b> is important because it represents the <b>lens height</b> within the boxing system, which is crucial for selecting the appropriate lens size and ensuring that the lenses fit properly within the frame, even though it is not usually printed on the frame.
+
+Basic;How does the <b>boxing system</b> ensure global recognition and standardization in frame measurements?;By providing a <b>consistent and accurate method</b> for measuring frames and lenses through the use of imaginary boxes and standardized reference points, the <b>boxing system</b> ensures that frame measurements are <b>globally recognized</b> and can be universally understood and applied across different regions and manufacturers.

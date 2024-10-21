@@ -1,6 +1,3 @@
-Here is the extracted text from your document, formatted with separators between pages:
-
----
 
 **Page 1**
 

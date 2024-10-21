@@ -1,0 +1,49 @@
+#separator:semicolon
+#html:true
+#notetype column:1
+
+Basic;What is presbyopia and at what age does it typically begin to affect individuals?;Answer: Presbyopia is a natural, age-related loss of the eye's ability to focus on close objects due to the hardening of the lens inside the eye. It typically begins to affect individuals after the age of 40.
+
+Basic;What are the common symptoms of presbyopia?;Answer:<br><ul><li>Difficulty reading small print</li><li>Needing brighter light to read</li><li>Holding reading materials at arm's length to see them clearly</li><li>Feeling that "arms aren't long enough" to read comfortably</li></ul>
+
+Basic;Why might someone who already wears spectacles for distance vision need to start using multifocal lenses?;Answer: As presbyopia develops, individuals may need multifocal lenses to continue seeing clearly at all distances. Multifocal lenses combine multiple lens powers, eliminating the need for separate glasses for distance and near vision.
+
+Basic;What are multifocal lenses and how do they address presbyopia?;Answer: Multifocal lenses are eyeglass lenses that contain two or more lens powers to help individuals see objects at different distances. They address presbyopia by providing clear vision for distance, intermediate, and near tasks within a single pair of glasses.
+
+Basic;What are the three main types of multifocal lenses discussed in the lecture?;Answer: The three main types of multifocal lenses are bifocal lenses, trifocal lenses, and progressive multifocal lenses.
+
+Basic;How do bifocal lenses differ from trifocal lenses?;Answer: Bifocal lenses contain two lens powers---one for distance vision and one for near vision. Trifocal lenses contain three lens powers, adding an intermediate segment for tasks at arm's length, such as computer work.
+
+Basic;What are progressive multifocal lenses and what is their key feature?;Answer: Progressive multifocal lenses, also known as progressive addition lenses (PALs), gradually change in power from the top to the bottom of the lens. This gradual transition allows for smooth correction at all distances without visible segment lines on the lens.
+
+Basic;In what cases might bifocal lenses be prescribed for children?;Answer: Bifocal lenses may be prescribed for children with binocular vision issues, such as problems with accommodation and convergence, excess accommodation leading to conditions like convergence excess or esotropia, loss of accommodation due to cataract surgery, or other focusing problems.
+
+Basic;What are the different shapes of segments used in bifocal and trifocal lenses?;Answer: The different shapes of segments include the half-moon (also known as flat-top or D segment), round segment, narrow rectangular ribbon segment, and the full bottom half segment known as executive, E-style, or Franklin style.
+
+Basic;Who is credited with the invention of bifocal lenses and how were they originally created?;Answer: Benjamin Franklin is credited with the invention of bifocal lenses. He originally created them by cutting his distance and reading lenses in half and combining the two halves into one frame.
+
+Basic;What are the two primary construction types of modern bifocal lenses?;Answer: The two primary construction types of modern bifocal lenses are solid bifocals and fused bifocals. Solid bifocals are made from a single lens material with different curvatures, resulting in a visible line. Fused bifocals use two materials with the same curvature, eliminating the visible line for a smoother appearance.
+
+Basic;What is a significant disadvantage of traditional bifocal lenses?;Answer: A significant disadvantage of traditional bifocal lenses is that they do not provide correction for intermediate distances, such as viewing computer screens or dashboards, making these tasks difficult for bifocal wearers.
+
+Basic;Who developed trifocal lenses and in what year?;Answer: John Isaac Hawkins developed trifocal lenses in 1827.
+
+Basic;For whom are trifocal lenses particularly beneficial, and why?;Answer: Trifocal lenses are particularly beneficial for individuals with advanced presbyopia who require a high reading addition (usually +2.00 diopters or more). They provide clear vision at intermediate distances, which is essential for tasks like computer work or reading instruments at arm's length.
+
+Basic;How is the intermediate addition in trifocal lenses typically determined relative to the reading addition?;Answer: The intermediate addition in trifocal lenses is normally half the power of the reading addition. For example, if the reading addition is +2.00 diopters, the intermediate addition would be +1.00 diopters.
+
+Basic;What are the differences in fitting bifocals compared to trifocals?;Answer: Bifocals are typically fitted so that the top line of the reading segment aligns with the wearer's lower eyelid, allowing the eyes to naturally seek the near-vision portion when reading. Trifocals are fitted slightly higher, with the top line of the intermediate segment aligned with the lower margin of the pupil, enabling the wearer to utilize the intermediate zone for tasks between 40 cm and 60 cm away.
+
+Basic;What are some common segment dimensions mentioned for bifocal and trifocal lenses?;Answer: Common segment dimensions include D28 (28 mm width), D35 (35 mm width), round segments with diameters such as 24 mm or 38 mm, and the executive style which uses the full bottom half of the lens for near vision.
+
+Basic;Why have bifocals declined in popularity since the introduction of progressive lenses?;Answer: Bifocals have declined in popularity since the introduction of progressive lenses because progressive lenses offer a smoother transition between different lens powers without visible lines, providing a more cosmetically appealing and comfortable vision correction at all distances.
+
+Basic;What role do multifocal lenses play in correcting accommodation-related issues?;Answer: Multifocal lenses correct accommodation-related issues by providing multiple lens powers within a single pair of glasses, allowing individuals to see clearly at various distances---distance, intermediate, and near---thereby addressing the loss of natural focusing ability due to conditions like presbyopia.
+
+Basic;What historical methods were used to create the first bifocals, and how have modern bifocals evolved from that method?;Answer: The first bifocals were created by Benjamin Franklin, who cut his distance and reading lenses in half and combined them into one frame. Modern bifocals have evolved to be constructed either as solid bifocals with different curvatures or as fused bifocals that use materials with the same curvature to eliminate visible lines, providing a more refined and comfortable design.
+
+Basic;What is the significance of the intermediate segment in trifocal lenses for modern activities?;Answer: The intermediate segment in trifocal lenses is significant for modern activities that require clear vision at arm's length, such as using computers, reading instruments, or engaging in detailed tasks that are neither too close nor too far from the eyes. It bridges the gap between distance and near vision, enhancing overall visual comfort and functionality.
+
+Basic;How do the different segment shapes in multifocal lenses affect the wearer's vision?;Answer: Different segment shapes in multifocal lenses, such as half-moon, round, ribbon, or executive styles, affect the wearer's vision by determining how and where they look through the lens for different focal points. The size and shape of the segment influence the field of view for near tasks and the overall aesthetic of the lenses, with larger segments providing a wider field of view for near tasks but being more noticeable on the lens.
+
+Basic;What advancements are expected in the next lecture following this discussion on bifocals and trifocals?;Answer: The next lecture is expected to explore progressive multifocal lenses in more detail, discussing their design, advantages, and fitting techniques, building upon the foundation established with bifocals and trifocals.

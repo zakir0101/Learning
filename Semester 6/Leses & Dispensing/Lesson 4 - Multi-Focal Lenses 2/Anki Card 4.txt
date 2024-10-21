@@ -1,0 +1,63 @@
+#separator:semicolon
+#html:true
+#notetype column:1
+
+Basic;What are multifocal lenses designed to correct?;Answer: Multifocal lenses are designed to correct vision at multiple distances, accommodating conditions like presbyopia where the eye's ability to focus on near objects diminishes with age.
+
+Basic;What types of multifocal lenses were discussed in previous lectures?;Answer: Previous lectures covered bifocal lenses, which have two distinct optical powers for distance and near vision, and trifocal lenses, which add an intermediate correction to the distance and near vision segments.
+
+Basic;What are some visual disturbances caused by bifocal and trifocal lenses?;Answer: Bifocal and trifocal lenses can cause visual disturbances such as "image jump," where images appear to shift abruptly when moving between different segments.
+
+Basic;What are progressive lenses also known as?;Answer: Progressive lenses are also known as progressive addition lenses (PAL), progressive power lenses, graduated prescription lenses, varifocal lenses, and multifocal lenses.
+
+Basic;How do progressive lenses differ aesthetically from bifocals and trifocals?;Answer: Progressive lenses resemble single-vision lenses with no visible segment lines, enhancing their cosmetic appeal compared to bifocals and trifocals, which have distinct segment lines.
+
+Basic;Which companies were pioneers in the development of modern progressive lenses?;Answer: Varilux and Zeiss were among the pioneering companies in the development of modern progressive lenses.
+
+Basic;What significant advancement occurred in 1972 regarding progressive lenses?;Answer: In 1972, the market introduction of Varilux 2 marked a significant advancement in the comfort and adaptation of progressive lenses.
+
+Basic;What technological advancements have contributed to the improvement of progressive lens designs?;Answer: Advancements in computer-aided design and manufacturing technologies have led to more sophisticated and comfortable progressive lens designs, including improved optics and reduced peripheral aberrations.
+
+Basic;What are the main design features of progressive lenses?;Answer: Progressive lenses typically feature an upper portion for distance vision, a middle progressive corridor for intermediate vision, a near vision area at the bottom, and peripheral areas that may contain unwanted astigmatism.
+
+Basic;Why is accurate fitting crucial for progressive lenses?;Answer: Accurate fitting is crucial to ensure that the fitting point aligns precisely with the wearer's pupil center, which is essential for optimal lens performance and to avoid issues such as narrow fields of view, clear vision in only one eye, and the need to adjust head position to see clearly.
+
+Basic;What are the common steps involved in fitting progressive lenses?;Answer: The fitting steps include measuring pupillary distance and fitting height, marking alignment points, adjusting the frame to sit correctly on the face, verifying clarity at all distances, and removing temporary markings for a natural appearance.
+
+Basic;What specialized progressive lenses are available for computer use and reading?;Answer: There are progressive lenses specifically designed for computer use with a wider intermediate zone and others that offer a larger reading portion for individuals who spend significant time reading.
+
+Basic;What are the advantages of progressive lenses over bifocals and trifocals?;Answer: Progressive lenses provide a more natural visual experience without abrupt power changes, have a cosmetic advantage with no visible lines, eliminate image jump, allow for improved adaptation with reduced peripheral distortions, offer versatility for various activities, and benefit from continuous design improvements.
+
+Basic;What general problems or contraindications might make multifocal lenses unsuitable for some individuals?;Answer: Multifocal lenses may be unsuitable for individuals prone to vertigo or dizziness, those working at heights due to potential misjudgment of distances, individuals with significant anisometropia (differences over 1.5 diopters between eyes), and those with high degrees of oblique astigmatism.
+
+Basic;What recommendations are provided for individuals who may not be suitable candidates for progressive lenses?;Answer: Recommendations include conducting a thorough assessment of the individual's visual needs and lifestyle, considering alternative lens types if progressive lenses are unsuitable, and seeking professional guidance from an optometrist for personalized recommendations.
+
+Basic;How do progressive lenses enhance productivity and reduce eye strain for specific tasks?;Answer: Progressive lenses tailored for specific tasks, such as computer use or reading, provide clear vision at commonly used distances, optimize lens zones for frequent tasks, and offer personalized comfort, which enhances productivity and reduces eye strain.
+
+Basic;What is "image jump," and how do progressive lenses address this issue?;Answer: "Image jump" refers to the sudden shift in images experienced when moving between different segments of bifocal or trifocal lenses. Progressive lenses eliminate this issue by providing a seamless transition between different focal lengths without abrupt changes.
+
+Basic;Why are progressive lenses considered to provide a more natural correction compared to bifocals or trifocals?;Answer: Progressive lenses offer a continuous gradient of lens power, allowing for seamless vision across all distances without the abrupt power changes found in bifocals or trifocals, thereby providing a more natural visual experience.
+
+Basic;What role does computer-aided design play in the development of progressive lenses?;Answer: Computer-aided design enables the creation of more sophisticated progressive lens designs with improved optics, reduced peripheral aberrations, and greater customization, enhancing overall comfort and visual clarity for the wearer.
+
+Basic;What are peripheral aberrations, and how have modern progressive lens designs addressed them?;Answer: Peripheral aberrations are distortions or unwanted astigmatism in the peripheral areas of the lens. Modern progressive lens designs have been continually improved to reduce these aberrations, resulting in greater comfort and clearer peripheral vision for wearers.
+
+Basic;How do progressive lenses compare to single-vision lenses in terms of appearance?;Answer: Progressive lenses closely resemble single-vision lenses in appearance because they lack visible segment lines, making them more cosmetically appealing and discreet compared to bifocals and trifocals.
+
+Basic;What is anisometropia, and why is it a concern when fitting multifocal lenses?;Answer: Anisometropia is a condition where there is a significant difference in refractive error between the two eyes. When the difference exceeds 1.5 diopters, it can cause discomfort and unequal image sizes, making it challenging to fit multifocal lenses effectively.
+
+Basic;What are the benefits of continuous improvement in progressive lens designs?;Answer: Continuous improvement in progressive lens designs leads to reduced peripheral distortions, enhanced wearer comfort, quicker adaptation for first-time users, and overall improved visual clarity, making progressive lenses more effective and user-friendly.
+
+Basic;In what ways can progressive lenses be customized to match a wearer's lifestyle and needs?;Answer: Progressive lenses can be customized by tailoring the lens zones for specific tasks such as computer work or reading, adjusting the width of the intermediate or reading portions, and designing occupational lenses that cater to the visual requirements of particular professions.
+
+Basic;What is the significance of the fitting point in progressive lenses, and how is it determined?;Answer: The fitting point is crucial as it must align precisely with the wearer's pupil center to ensure optimal lens performance. It is determined by measuring pupillary distance and fitting height, marking alignment points, and adjusting the frame to sit correctly on the face during the fitting process.
+
+Basic;How do progressive lenses contribute to the elimination of the need for multiple pairs of glasses?;Answer: Progressive lenses provide clear vision at all necessary distances—distance, intermediate, and near—thereby eliminating the need for multiple pairs of glasses tailored for different activities, such as reading or computer work.
+
+Basic;What are the potential safety risks of using multifocal lenses for individuals working at heights?;Answer: For individuals working at heights, multifocal lenses can pose safety risks due to potential misjudgment of distances caused by the lens distortions, which can lead to accidents or errors in judgment.
+
+Basic;Why might someone with high degrees of oblique astigmatism find it difficult to use multifocal lenses effectively?;Answer: High degrees of oblique astigmatism can increase lens distortions and make it challenging for multifocal lenses to provide clear vision across all distances, leading to discomfort and reduced visual clarity for the wearer.
+
+Basic;What steps should be taken after fitting progressive lenses to ensure a natural appearance?;Answer: After fitting progressive lenses, any temporary markings made to indicate alignment points are removed to ensure the lenses have a natural appearance, enhancing their cosmetic appeal.
+
+Basic;How have modern progressive lenses improved the adaptation process for first-time wearers?;Answer: Modern progressive lenses have reduced peripheral distortions and improved lens designs, which allow most first-time wearers to adapt almost immediately, minimizing the adjustment period typically needed with older progressive lens designs.

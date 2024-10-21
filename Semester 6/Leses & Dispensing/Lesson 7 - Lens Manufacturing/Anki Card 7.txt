@@ -1,0 +1,63 @@
+#separator:semicolon
+#html:true
+#notetype column:1
+
+Basic;What percentage of eyeglasses today feature plastic lenses?;Answer:<br>More than 80% of eyeglasses worn today feature plastic lenses.
+
+Basic;Why have plastic lenses become more popular than glass lenses?;Answer:<br>Plastic lenses have become more popular due to their safety advantages; they are less prone to breakage and potential eye injuries compared to glass lenses.
+
+Basic;What are the common manufacturing processes for both plastic and glass lenses?;Answer:<br>Both plastic and glass lenses are produced through successive stages of fine grinding, polishing, and shaping.
+
+Basic;Which type of lenses currently surpass the other in production volume?;Answer:<br>Plastic lenses now significantly surpass glass lenses in production volume.
+
+Basic;What other optical devices use the same basic lens manufacturing process as eyeglass lenses?;Answer:<br>Lenses for telescopes, microscopes, binoculars, cameras, and various projectors use the same basic lens manufacturing process as eyeglass lenses.
+
+Basic;How do lenses for devices like telescopes and microscopes differ from eyeglass lenses in terms of manufacturing?;Answer:<br>Lenses for devices like telescopes and microscopes are typically larger, thicker, and require greater precision and optical power, making their production more complex and costly compared to eyeglass lenses.
+
+Basic;How did opticians produce eyeglass lenses in the past?;Answer:<br>In the past, opticians relied on separate optical laboratories that often used manual processes to produce eyeglass lenses, which was time-consuming.
+
+Basic;What advancements have modern optical laboratories made in lens production?;Answer:<br>Modern optical laboratories employ automated, computerized machinery, allowing them to produce lenses on-site for customers more efficiently.
+
+Basic;What are lens blanks and how are they used in modern optical outlets?;Answer:<br>Lens blanks are pre-formed, thick, circular discs with specific front curves received from optical laboratories. Optical outlets use them as the starting point for further processing to meet individual prescriptions.
+
+Basic;What are lens blanks and what role do they play in lens manufacturing?;Answer:<br>Lens blanks are thick, circular discs that serve as the starting point for lens manufacturing. They have pre-finished front surfaces with specific curves suitable for various prescriptions.
+
+Basic;How is the front surface of a lens blank treated?;Answer:<br>The front surface of a lens blank is typically pre-finished with specific curves using a diamond grinding tool and then polished to achieve the necessary transparency.
+
+Basic;What is the surfacing process and what does it achieve?;Answer:<br>The surfacing process involves grinding the back surface of the lens blank to achieve the desired optical power, thereby customizing the lens to meet the prescribed vision correction.
+
+Basic;Why are different curves used on lens blanks for various prescriptions?;Answer:<br>Different curves on lens blanks are utilized for specific optical prescriptions to optimize lens performance, ensuring that each lens provides the correct optical power for the wearer's vision needs.
+
+Basic;What raw materials are used in lens material production?;Answer:<br>The raw materials used in lens material production include quartz, potassium carbonate, and soda ash.
+
+Basic;At what temperatures are the raw materials melted to form lens blanks?;Answer:<br>The raw materials are melted together at extremely high temperatures of approximately 1400–1500°C to form lens blanks.
+
+Basic;What is the process for shaping the front surface of a lens blank?;Answer:<br>The front surface of a lens blank is shaped using a diamond grinding tool to achieve the precise curvature required.
+
+Basic;How is transparency achieved in the lens blanks?;Answer:<br>Transparency in the lens blanks is achieved through polishing processes applied to the front surface after grinding.
+
+Basic;What is the first step in the lens surfacing process?;Answer:<br>The first step in the lens surfacing process is the technician inputting the optical prescription into a computer system, which then generates detailed specifications for lens production.
+
+Basic;How does the laboratory computer assist in selecting the appropriate lens blank?;Answer:<br>The laboratory computer generates detailed specifications based on the prescription, guiding the technician in selecting the appropriate lens blank based on parameters like front surface power, diameter, and thickness.
+
+Basic;What parameters are considered when selecting a lens blank for a prescription?;Answer:<br>Parameters such as front surface power, diameter, and thickness are considered when selecting a lens blank for a prescription.
+
+Basic;How is the back surface of a lens blank prepared for the final prescription?;Answer:<br>The back surface of a lens blank is prepared by grinding it using a curve generator to achieve the exact curvature required for the prescription.
+
+Basic;What is the purpose of marking the optical center on a lens blank?;Answer:<br>Marking the optical center ensures that the optical power is correctly centered over the lens blank, which is essential for accurate vision correction.
+
+Basic;Why is adhesive tape applied to the front surface of the lens during surfacing?;Answer:<br>Adhesive tape is applied to the front surface of the lens to protect it from scratches during the surfacing process.
+
+Basic;What is "blocking" in the lens surfacing process?;Answer:<br>"Blocking" involves affixing an alloy block to the front surface of the lens, which acts as a handle and support during the grinding and polishing processes.
+
+Basic;What occurs during the generating step of surfacing?;Answer:<br>During the generating step, the lens mounted on the alloy block is placed in the generator machine, where the back surface is cut to the approximate curvature required for the prescription.
+
+Basic;Why is polishing necessary after generating the back surface?;Answer:<br>Polishing is necessary to smooth the back surface to optical clarity after it has been cut by the generator machine.
+
+Basic;What happens during the de-blocking and tape removal steps?;Answer:<br>During de-blocking, the lens is removed from the alloy block. During tape removal, the protective adhesive tape is taken off the front surface of the lens.
+
+Basic;How are lenses inspected after the surfacing process?;Answer:<br>Lenses are visually inspected for scratches, chips, or other imperfections, and the optical prescription is verified using a lensometer to ensure accuracy.
+
+Basic;What does the final inspection of a lens entail?;Answer:<br>The final inspection involves checking the lens for any defects such as scratches, chips, or rough edges and verifying the optical prescription to confirm that it meets the required specifications.
+
+Basic;How is the optical prescription verified during quality control?;Answer:<br>The optical prescription is verified using a lensometer, which ensures that the lens meets the required specifications for accurate vision correction.
